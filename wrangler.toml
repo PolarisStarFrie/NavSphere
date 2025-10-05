@@ -9,5 +9,5 @@ GITHUB_OWNER = "PolarisStarFrie"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://daohang.polarisstar.dpdns.org/api/auth"
-NEXT_PUBLIC_API_URL="https://daohang.polarisstar.dpdns.org/"
+NEXT_PUBLIC_API_URL="https://daohang.polarisstar.dpdns.org"
 
